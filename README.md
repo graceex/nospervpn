@@ -15,3 +15,12 @@
 </tr>
 </tbody>
 </table>
+<h1>Priorities on using Nosper:</h1>
+<p><strong>✅Unlimited time</strong></p>
+<p><strong>✅Unlimited bandwith</strong></p>
+<p><strong>✅6 Servers</strong></p>
+<p><strong>✅No payments</strong></p>
+<p><strong>✅Servers can be changed manually by the user</strong></p>
+<p><strong>❌Windows only</strong></p>
+<p><strong>❌Requires a stable computer and internet connection</strong></p>
+<p><strong>❌Windows 7+</strong></p>
