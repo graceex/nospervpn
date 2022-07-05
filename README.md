@@ -15,6 +15,15 @@
 </tr>
 </tbody>
 </table>
+<table style="height: 5px; width: 11.7898%; border-collapse: collapse; background-color: red; float: left;" border="0">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h1><span style="color: #ffffff;">⚠️MAKE SURE TO RUN AS ADMINISTRATOR</span></h1>
+</td>
+</tr>
+</tbody>
+</table>
 <h1>Priorities on using Nosper:</h1>
 <p><strong>✅Unlimited time</strong></p>
 <p><strong>✅Unlimited bandwith</strong></p>
