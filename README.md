@@ -24,3 +24,33 @@
 <p><strong>❌Windows only</strong></p>
 <p><strong>❌Requires a stable computer and internet connection</strong></p>
 <p><strong>❌Windows 7+</strong></p>
+<h1>Built in servers:</h1>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 40.9091%; height: 306px;" border="1">
+<tbody>
+<tr style="height: 51px;">
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 1</strong></td>
+<td style="width: 50%; text-align: center; height: 51px;"><strong>London <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom - Wikipedia" width="22" height="11" /></strong></td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 2</strong></td>
+<td style="width: 50%; text-align: center; height: 51px;"><strong>New York <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States - Wikipedia" width="21" height="11" /></strong></td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 3</strong></td>
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Helsiniki <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/800px-Flag_of_Finland.svg.png" alt="Файл:Flag of Finland.svg &ndash; Уикипедия" width="17" height="11" /></strong></td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 4</strong></td>
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Plovdiv <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png" alt="Flag of Bulgaria - Wikipedia" width="20" height="12" /></strong></td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 5</strong></td>
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Oslo <img src="https://www.flaginstitute.org/wp/wp-content/uploads/2015/05/Norway.png" alt="Flag of Norway: the mother of all flags | The Flag Institute" width="17" height="12" /></strong></td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 6</strong></td>
+<td style="width: 50%; height: 51px; text-align: center;"><strong>Dublin <img src="https://cdn.discordapp.com/attachments/952536677828661279/993937566602625145/unknown.png" width="20" height="12" /></strong></td>
+</tr>
+</tbody>
+</table>
