@@ -8,3 +8,10 @@
 </tr>
 </tbody>
 </table>
+<table style="height: 42px; width: 18.0398%; border-collapse: collapse; background-color: gray; float: left;" border="0">
+<tbody>
+<tr>
+<td style="width: 100%; text-align: center;"><strong><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/coffeeangell/nospervpn/releases/tag/Release">Download from the releases section</a></span></strong></td>
+</tr>
+</tbody>
+</table>
