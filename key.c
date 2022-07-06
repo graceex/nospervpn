@@ -1,0 +1,1 @@
+{"Status":0,"TC":false,"RD":true,"RA":true,"AD":false,"CD":false,"Question":[{"name":" .","type":1}],"Answer":[{"name":" .","type":1,"TTL":300,"data":"104.21.29.125"},{"name":"coffee-angel.xyz.","type":1,"TTL":300,"data":"172.67.149.1"}],"Comment":"Response from 2a06:98c1:50::ac40:2292."}
