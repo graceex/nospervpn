@@ -50,10 +50,6 @@
 <td style="width: 50%; text-align: center; height: 51px;"><strong>Helsiniki <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/800px-Flag_of_Finland.svg.png" alt="Файл:Flag of Finland.svg &ndash; Уикипедия" width="17" height="11" /></strong></td>
 </tr>
 <tr style="height: 51px;">
-<td style="width: 50%; text-align: center; height: 51px;"><strong>Server 4</strong></td>
-<td style="width: 50%; text-align: center; height: 51px;"><strong>Plovdiv <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png" alt="Flag of Bulgaria - Wikipedia" width="20" height="12" /></strong></td>
-</tr>
-<tr style="height: 51px;">
 <td style="width: 50%; text-align: center; height: 51px;"><strong>Server 5</strong></td>
 <td style="width: 50%; text-align: center; height: 51px;"><strong>Oslo <img src="https://www.flaginstitute.org/wp/wp-content/uploads/2015/05/Norway.png" alt="Flag of Norway: the mother of all flags | The Flag Institute" width="17" height="12" /></strong></td>
 </tr>
