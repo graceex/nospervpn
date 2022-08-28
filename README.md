@@ -1,6 +1,13 @@
 <h1><img src="https://cdn.discordapp.com/attachments/993918401871360131/993924637748633671/nospervpn.png" /></h1>
 <h3>An easy, free unlimited VPN to use that is based on OpenVPN.</h3>
 <h3><img src="https://files.catbox.moe/n4em16.png" width="567" height="507" /></h3>
+<table style="height: 18px; width: 38.2103%; border-collapse: collapse; background-color: pink; margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td style="width: 100%;"><strong>⚠️<span style="color: #333333;">No longer updated, the client should continue to work - you can change the servers themselves using a .ovpn file. I cannot say if the servers are going to stay up for certain as I am not the owner of them, courvix is. </span>⚠️</strong></td>
+</tr>
+</tbody>
+</table>
 <table style="height: 42px; width: 18.0398%; border-collapse: collapse; background-color: gray; float: left;" border="0">
 <tbody>
 <tr>
